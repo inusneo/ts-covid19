@@ -1,0 +1,16 @@
+{
+  "name": "ts-covid19",
+  "version": "1.0.0",
+  "description": "타입스크립트 강의를 수강하며 제작한 프로젝트입니다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
